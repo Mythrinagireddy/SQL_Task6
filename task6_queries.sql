@@ -1,6 +1,6 @@
 -- Task 6: Subqueries and Nested Queries
--- Author: [Your Name]
--- Tool used: MySQL Workbench / SQLite
+-- Author: [Mythri Nagireddy]
+-- Tool used: MySQL Workbench 
 
 -- 1. Scalar Subquery Example
 SELECT name, salary,
