@@ -29,5 +29,4 @@ This task improved my understanding of advanced SQL logic and helped me differen
 - Queries tested and executed in MySQL Workbench.
 - Faced some challenges with correlated subqueries but resolved them using aliases properly.
 
-## 🔗 Submission Link:
-[Paste your GitHub repo link here before submitting in the form]
+
